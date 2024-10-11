@@ -5,6 +5,6 @@
   },
   {
     "name": "TinyLake",
-    "address": ["cn.mindustry.top:40500"]
+    "address": ["cn.mindustry.top", "cn.mindustry.top:40500"]
   }
 ]
