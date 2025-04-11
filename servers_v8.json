@@ -10,5 +10,9 @@
   {
     "name": "TinyLake",
     "address": ["cn.mindustry.top", "cn.mindustry.top:40542"]
+  },
+  {
+    "name": "Mindurka",
+    "address": ["147.45.230.117:3014"]
   }
 ]
