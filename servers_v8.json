@@ -2,5 +2,9 @@
   {
     "name": "snowland",
     "address": ["46.23.90.167:52001", "46.23.90.167:52002"]
+  },
+  {
+    "name": "routerchain",
+    "address": ["v8.baseduser.eu.org:6567", "v8.baseduser.eu.org:6568"]
   }
 ]
