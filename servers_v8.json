@@ -4,6 +4,10 @@
     "address": ["121.127.37.17:6574"]
   },
   {
+    "name": "FrostHeaven",
+    "address": ["mindustry.frost-heaven.ru:6587", "mindustry.frost-heaven.ru:6588", "mindustry.frost-heaven.ru:6589"]
+  },
+  {
     "name": "snowland",
     "address": ["46.23.90.167:52001", "46.23.90.167:52002"]
   },
