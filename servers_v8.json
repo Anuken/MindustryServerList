@@ -14,5 +14,9 @@
   {
     "name": "Mindurka",
     "address": ["147.45.230.117:3014"]
+  },
+  {
+    "name": "MeowIsland",
+    "address": ["meowisland.ru:6000", "meowisland.ru:6001"]
   }
 ]
