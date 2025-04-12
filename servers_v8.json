@@ -22,5 +22,6 @@
   {
     "name": "MeowIsland",
     "address": ["meowisland.ru:6000", "meowisland.ru:6001"]
-  }
+  },
+  among
 ]
