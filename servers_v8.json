@@ -22,5 +22,9 @@
   {
     "name": "MeowIsland",
     "address": ["meowisland.ru:6000", "meowisland.ru:6001"]
+  },
+  {
+    "name": "AzurLine",
+    "address": ["78.47.238.87", "78.47.238.87:6568", "78.47.238.87:6569"]
   }
 ]
