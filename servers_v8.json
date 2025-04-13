@@ -26,5 +26,9 @@
   {
     "name": "MeowIsland",
     "address": ["meowisland.ru:6000", "meowisland.ru:6001"]
+  },
+  {
+    "name": "The Devil",
+    "address": ["new.xem8k5.top:6568"]
   }
 ]
