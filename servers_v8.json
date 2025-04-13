@@ -8,6 +8,10 @@
     "address": ["mindustry.frost-heaven.ru:6587", "mindustry.frost-heaven.ru:6588", "mindustry.frost-heaven.ru:6589"]
   },
   {
+    "name": "ArmyOFUkraine",
+    "address": ["202.181.188.253:27510"]
+  },
+  {
     "name": "snowland",
     "address": ["46.23.90.167:52001", "46.23.90.167:52002"]
   },
