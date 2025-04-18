@@ -1,5 +1,9 @@
 [
   {
+    "name": "OmniCorp",
+    "address": ["omnidustry.ru:6577"]
+  },
+  {
     "name": "EscoCorp",
     "address": ["121.127.37.17:6574"]
   },
