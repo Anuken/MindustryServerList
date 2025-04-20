@@ -67,5 +67,9 @@
   {
     "name": "SynapseOS",
     "address": ["0nera.ru:5555"]
+  },
+  {
+    "name": "Spark",
+    "address": ["mindustry.wiki:20000"]
   }
 ]
