@@ -2,5 +2,9 @@
   {
     "name": "Nydus",
     "address": ["be.mindustry.nydus.app:6567", "be.mindustry.nydus.app:6568"]
+  },
+  {
+    "name": "Snow",
+    "address": ["46.23.90.167:51001", "46.23.90.167:51002"]
   }
 ]
