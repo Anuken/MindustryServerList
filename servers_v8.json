@@ -86,8 +86,6 @@
   },
   {
     "name": "Lett's Server Network",
-    "address": [
-      "sandbox.lettsn.org"
-    ]
+    "address": ["sandbox.lettsn.org"]
   }
 ]
