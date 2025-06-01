@@ -85,7 +85,11 @@
     "address": ["yuyu.mindustry.ink", "cn.mindustry.ink", "cn1.mindustry.ink", "yu.mindustry.ink", "183.131.51.178"]
   },
   {
+    "name": "Lett's Server Network",
+    "address": ["sandbox.lettsn.org"]
+  },
+  {
     "name": "The Devil",
     "address": ["test.xem8k5.top"]
-  },
+  }
 ]
