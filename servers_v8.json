@@ -5,7 +5,7 @@
   },
   {
     "name": "OmniCorp",
-    "address": ["omnidustry.ru:6577"]
+    "address": ["omnidustry.ru:6576", "omnidustry.ru:6577"]
   },
   {
     "name": "EscoCorp",
@@ -87,5 +87,9 @@
   {
     "name": "Lett's Server Network",
     "address": ["sandbox.lettsn.org"]
+  },
+  {
+    "name": "The Devil",
+    "address": ["test.xem8k5.top"]
   }
 ]
