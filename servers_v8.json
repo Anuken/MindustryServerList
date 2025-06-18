@@ -74,7 +74,7 @@
   },
   {
     "name": "SynapseOS",
-    "address": ["46.149.69.116:5555"]
+    "address": ["46.149.69.116:5555", "river.s-hub.cloud:25582", "river.s-hub.cloud:25630"]
   },
   {
     "name": "Spark",
