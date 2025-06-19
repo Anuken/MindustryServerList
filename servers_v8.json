@@ -1,5 +1,9 @@
 [
   {
+    "name": "IndustryCats",
+    "address": ["80.74.28.57:55072, 80.74.28.57:7623"]
+  },
+  {
     "name": "Tendhost",
     "address": ["tendhost.ru:7577"]
   },
