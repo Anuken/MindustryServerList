@@ -40,6 +40,10 @@
     "address": ["147.45.230.117:3014"]
   },
   {
+    "name": "Gadgetroch",
+    "address": ["mindustry.gadgetroch.com:6567", "mindustry.gadgetroch.com:6568", "mindustry.gadgetroch.com:6569"]
+  },
+  {
     "name": "Eradication Mindustry",
     "address": [
       "130.61.22.183:8000",
