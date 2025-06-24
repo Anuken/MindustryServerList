@@ -62,7 +62,7 @@
   },
   {
     "name": "The Devil",
-    "address": ["new.xem8k5.top:6568"]
+    "address": ["new.xem8k5.top:6568", "test.xem8k5.top"]
   },
   {
     "name": "AzurLine",
@@ -87,10 +87,6 @@
   {
     "name": "Lett's Server Network",
     "address": ["sandbox.lettsn.org"]
-  },
-  {
-    "name": "The Devil",
-    "address": ["test.xem8k5.top"]
   },
   {
     "name": "Pure PVP",
