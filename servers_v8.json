@@ -1,5 +1,9 @@
 [
   {
+  "name": "Mindustry Tool",
+  "address": ["server.mindustry-tool.com:10000", "server.mindustry-tool.com:10001", "server.mindustry-tool.com:10002", "server.mindustry-tool.com:10003", "server.mindustry-tool.com:10004", "server.mindustry-tool.com:10005"]
+  },
+  {
     "name": "IndustryCats",
     "address": ["80.74.28.57:55072", "80.74.28.57:7623"]
   },
