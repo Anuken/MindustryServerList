@@ -1,5 +1,9 @@
 [
   {
+    "name":"DELTA",
+    "address": ["45.61.49.88:2500"]
+  },
+  {
     "name":"MEIQIU",
     "address": ["home.hbzmy.com"]
   },
