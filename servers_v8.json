@@ -1,10 +1,14 @@
 [
   {
-    "name":"Abyss Icefire",
+    "name": "Abyss Icefire",
     "address": ["9666.fun:18564"]
   },
   {
-    "name":"MEIQIU",
+    "name": "DELTA",
+    "address": ["45.61.49.88:2500"]
+  },
+  {
+    "name": "MEIQIU",
     "address": ["home.hbzmy.com"]
   },
   {
@@ -14,6 +18,10 @@
   {
     "name": "IndustryCats",
     "address": ["80.74.28.57:55072", "80.74.28.57:7623"]
+  },
+  {
+    "name": "SpaceCats",
+    "address": ["64.188.124.25:6567"]
   },
   {
     "name": "Tendhost",
@@ -41,7 +49,7 @@
   },
   {
     "name": "Snow",
-    "address": ["mdt.ity.moe:34558"]
+    "address": ["185.209.85.92"]
   },
   {
     "name": "routerchain",
@@ -106,7 +114,7 @@
   },
   {
     "name": "SynapseOS",
-    "address": ["46.149.69.116:5555", "river.s-hub.cloud:25582", "river.s-hub.cloud:25630"]
+    "address": ["46.149.69.116:5555", "213.171.18.218:25783", "213.171.18.218:25589"]
   },
   {
     "name": "Spark",
@@ -127,5 +135,13 @@
   {
     "name": "Novice",
     "address":["43.248.77.159:33456"]
+  },
+  {
+    "name": "DontVin",
+    "address":["102.211.206.92:1111", "102.211.206.92:2222", "102.211.206.92:3333", "102.211.206.92:4444"]
+  },
+  {
+    "name": "Dim.ST",
+    "address":["play.simpfun.cn:21402"]
   }
 ]
