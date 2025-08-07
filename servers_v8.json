@@ -1,4 +1,8 @@
-[
+[  
+  {
+    "name": "gods field",
+    "address": ["mdt.shenyugame.cn:20524"]
+  },
   {
     "name": "Abyss Icefire",
     "address": ["9666.fun:18564"]
