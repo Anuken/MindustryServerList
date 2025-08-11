@@ -102,7 +102,7 @@
   },
   {
     "name": "MeowIsland",
-    "address": ["meowisland.ru:6000", "meowisland.ru:6001"]
+    "address": ["meowisland.ru:6000", "meowisland.ru:6001", "meowisland.ru:6002"]
   },
   {
     "name": "The Devil",
@@ -153,7 +153,11 @@
     "address": ["188.127.241.22:25637", "188.127.241.22:25711", "188.127.241.22:25662", "188.127.241.22:25733"]
   },
   {
+    "name": "Rosemoncorp Servers",
+    "address": ["194.164.245.234:6567", "194.164.245.234:6568"]
+  },
+  {
     "name": "star dream",
     "address": ["scp079.work.gd:6567"]
-  } 
+  },
 ]
