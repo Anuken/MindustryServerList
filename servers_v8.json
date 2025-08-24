@@ -176,7 +176,7 @@
     ]
   },
   {
-    "name": "Omnidust Servers"
-    "address": ["147.185.221.31"]
+    "name": "Omnidust Servers",
+    "address": ["147.185.221.31:21206"]
 }
 ]
