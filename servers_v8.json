@@ -150,7 +150,9 @@
   },
   {
     "name": "Dim.ST",
-    "address":["play.simpfun.cn:21402"]
+    "address":["play.simpfun.cn:21402",
+               "play.simpfun.cn:28250"
+              ]
   },
   {
     "name": "Aetherial",
