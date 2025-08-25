@@ -126,7 +126,7 @@
   },
   {
     "name": "Spark",
-    "address": ["mindustry.net.cn:20006"]
+    "address": ["mindustry.net.cn:20006", "mindustry.net.cn:20007"]
   },
   {
     "name": "Extra Utilities",
