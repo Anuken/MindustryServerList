@@ -172,6 +172,10 @@
     ]
   },
   {
+    "name": "Omnidust Servers",
+    "address": ["147.185.221.31:21206"]
+  },
+  {
     "name": "Router Pi",
     "address": ["a55c81b7c4d6e6d604651a93f8af5cd83.asuscomm.com", "a55c81b7c4d6e6d604651a93f8af5cd83.asuscomm.com:6568"]
   },
