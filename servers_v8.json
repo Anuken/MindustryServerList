@@ -157,10 +157,6 @@
     "address": ["194.164.245.234:6567", "194.164.245.234:6568"]
   },
   {
-    "name": "star dream",
-    "address": ["scp079.work.gd:6567"]
-  },
-  {
     "name": "Fish",
     "address": [
       "162.248.101.95",
@@ -182,5 +178,9 @@
   {
     "name": "TWS",
     "address": ["134.122.83.5"]
+  },
+  {
+    "name": "grass server"
+    address: "java.mindustry.wiki:6568"
   }
 ]
