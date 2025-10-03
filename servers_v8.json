@@ -181,6 +181,6 @@
   },
   {
     "name": "grass server"
-    "address": "java.mindustry.wiki:6568"
+    "address": ["java.mindustry.wiki:6568"]
   }
 ]
