@@ -21,7 +21,7 @@
   },
   {
     "name": "Mindustry Tool",
-    "address": ["server.mindustry-tool.com:10000", "server.mindustry-tool.com:10001", "server.mindustry-tool.com:10002", "server.mindustry-tool.com:10003", "server.mindustry-tool.com:10004", "server.mindustry-tool.com:10005"]
+    "address": ["server.mindustry-tool.com:10000", "server.mindustry-tool.com:10001", "server.mindustry-tool.com:10002", "server.mindustry-tool.com:10003", "server.mindustry-tool.com:10004", "server.mindustry-tool.com:10005", "server.mindustry-tool.com:10006", "server.mindustry-tool.com:10007", "server.mindustry-tool.com:10008", "server.mindustry-tool.com:10009", "server.mindustry-tool.com:10010"]
   },
   {
     "name": "IndustryCats",
