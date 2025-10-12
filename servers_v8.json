@@ -157,8 +157,8 @@
     "address": ["194.164.245.234:6567", "194.164.245.234:6568"]
   },
   {
-    "name": "star dream",
-    "address": ["scp079.work.gd:6567"]
+    "name": "grass server",
+    "address": ["java.mindustry.wiki:6568"]
   },
   {
     "name": "Fish",
@@ -186,5 +186,9 @@
   {
     "name": "lemon", 
     "address": ["183.131.51.178:1000"]
+  },
+  {
+    "name": "Dim.ST",
+    "address": ["play.simpfun.cn:21559"]
   }
 ]
