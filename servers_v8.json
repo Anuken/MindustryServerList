@@ -190,5 +190,9 @@
   {
     "name": "Dim.ST",
     "address": ["play.simpfun.cn:21559"]
+  },
+  {
+    "name": "Power line",
+    "address": ["cn-sh-2.lcf.im:25935"]
   }
 ]
