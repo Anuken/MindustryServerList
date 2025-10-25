@@ -190,5 +190,9 @@
   {
     "name": "Dim.ST",
     "address": ["play.simpfun.cn:21559"]
+  },
+  {
+    "name": "Power line",
+    "address": ["47.242.166.68:6567"]
   }
 ]
