@@ -212,5 +212,9 @@
   {
     "name": "Industrial",
     "address": ["95.215.56.61:6567"]
+  },
+  {
+    "name": "Power line",
+    "address": ["47.242.166.68:6567"]
   }
 ]
