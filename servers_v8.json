@@ -216,5 +216,9 @@
   {
     "name": "Power line",
     "address": ["47.242.166.68:6567"]
+  },
+  {
+    "name": "LMSS",
+    "address": ["lucasmindustry.ddns.net:20142"]
   }
 ]
