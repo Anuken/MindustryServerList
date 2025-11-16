@@ -148,7 +148,7 @@
   },
   {
     "name": "Extra Utilities",
-    "address": ["yuyu.mindustry.ink", "cn.mindustry.ink", "cn1.mindustry.ink", "yu.mindustry.ink", "183.131.51.178"]
+    "address": ["yuyu.mindustry.ink", "cn.mindustry.ink", "183.131.51.178:6569", "183.131.51.178:6568", "183.131.51.178"]
   },
   {
     "name": "Lett's Server Network",
@@ -215,10 +215,14 @@
   },
   {
     "name": "Industrial",
-    "address": ["95.215.56.61:6567"]
+    "address": ["95.215.56.61:6567, 95.215.56.61:6568"]
   },
   {
     "name": "Power line",
     "address": ["43.136.177.37:6567"]
+  },
+  {
+    "name": "LMSS",
+    "address": ["lucasmindustry.ddns.net:20142"]
   }
 ]
