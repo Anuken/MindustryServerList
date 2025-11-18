@@ -225,4 +225,8 @@
     "name": "LMSS",
     "address": ["lucasmindustry.ddns.net:20142"]
   }
+  {
+    "name": "FunCommunity",
+    "address": ["server.mindustry-tool.com:15041"]
+  }
 ]
