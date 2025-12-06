@@ -6,5 +6,9 @@
   {
     "name": "Nydus",
     "address": ["be.mindustry.nydus.app:6567", "be.mindustry.nydus.app:6568"]
+  },
+  {
+    "name": "Chaotic Neutral",
+    "address": ["n4.xpdustry.com:50010"]
   }
 ]
