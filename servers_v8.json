@@ -1,5 +1,9 @@
 [
   {
+    "name": "M-ind Fans",
+    "address": ["47.236.249.154:16567"]
+  },
+  {
     "name": "Maxdustry",
     "address": ["78.24.219.168:1001", "78.24.219.168:1002", "78.24.219.168:1003", "78.24.219.168:1004"]
   },
@@ -17,7 +21,7 @@
   },
   {
     "name": "MEIQIU",
-    "address": ["home.hbzmy.com","sec.hbzmy.com","cn.hbzmy.com"]
+    "address": ["mindustry.fun", "t1.mindustry.fun", "t2.mindustry.fun"]
   },
   {
     "name": "Mindustry Tool",
@@ -49,7 +53,7 @@
   },
   {
     "name": "404ru",
-    "address": ["95.215.56.219:6587", "95.215.56.219:6588", "95.215.56.219:6589", "95.215.56.219:6590", "95.215.56.219:6591", "95.215.56.219:6592", "95.215.56.219:6593"]
+    "address": ["202.49.176.59:6587", "202.49.176.59:6588", "202.49.176.59:6589", "202.49.176.59:6590", "202.49.176.59:6591", "202.49.176.59:6592", "202.49.176.59:6593"]
   },
   {
     "name": "ArmyOFUkraine",
@@ -76,6 +80,20 @@
     "address": ["mindustry.gadgetroch.com:6567", "mindustry.gadgetroch.com:6568", "mindustry.gadgetroch.com:6569"]
   },
   {
+    "name": "XCore",
+    "address": [
+      "62.30.47.117:7001",
+      "62.30.47.117:7002",
+      "62.30.47.117:7003",
+      "62.30.47.117:7004",
+      "62.30.47.117:7005",
+      "62.30.47.117:7006",
+      "62.30.47.117:7007",
+      "62.30.47.117:7008",
+      "62.30.47.117:7009"
+    ]
+  },
+  {
     "name": "Eradication Mindustry",
     "address": [
       "130.61.22.183:8000",
@@ -94,14 +112,15 @@
   {
     "name": "Chaotic Neutral",
     "address": [
-      "37.187.73.180:7011",
-      "37.187.73.180:7012",
-      "37.187.73.180:7013",
-      "37.187.73.180:7014",
-      "37.187.73.180:7015",
-      "37.187.73.180:7016",
-      "37.187.73.180:7017",
-      "37.187.73.180:7018"
+      "n4.xpdustry.com:50010",
+      "n4.xpdustry.com:50011",
+      "n4.xpdustry.com:50012",
+      "n4.xpdustry.com:50013",
+      "n4.xpdustry.com:50014",
+      "n4.xpdustry.com:50015",
+      "n4.xpdustry.com:50016",
+      "n4.xpdustry.com:50018",
+      "n4.xpdustry.com:50019"
     ]
   },
   {
@@ -113,7 +132,7 @@
     "address": ["new.xem8k5.top"]
   },
   {
-    "name": "AzurLine",
+    "name": "MAL",
     "address": ["78.47.238.87", "78.47.238.87:6568", "78.47.238.87:6569"]
   },
   {
@@ -126,11 +145,11 @@
   },
   {
     "name": "Spark",
-    "address": ["mindustry.net.cn:20006", "mindustry.net.cn:20007"]
+    "address": ["mindustry.net.cn:20008", "mindustry.net.cn:20007"]
   },
   {
-    "name": "Extra Utilities",
-    "address": ["yuyu.mindustry.ink", "cn.mindustry.ink", "cn1.mindustry.ink", "yu.mindustry.ink", "183.131.51.178"]
+    "name": "Mutsumi daisuki",
+    "address": ["45.125.44.66:15143", "45.125.44.66:15142"]
   },
   {
     "name": "Lett's Server Network",
@@ -181,14 +200,30 @@
   },
   {
     "name": "TWS",
-    "address": ["134.122.83.5"]
+    "address": ["tws.mlokis.dev"]
   },
   {
     "name": "lemon", 
-    "address": ["183.131.51.178:1000"]
+    "address": ["183.131.51.178:1000", "ksang.mindustry.icu"]
   },
   {
     "name": "Dim.ST",
     "address": ["play.simpfun.cn:21559"]
+  },
+  {
+    "name": "abcxyz",
+    "address": ["15.235.181.136:20258", "15.235.181.136:12171", "15.235.181.136:20261", "15.235.181.136:12645", "15.235.181.136:14218", "15.235.181.136:15615"]
+  },
+  {
+    "name": "Industrial",
+    "address": ["95.215.56.61:6567", "95.215.56.61:6568"]
+  },
+  {
+    "name": "Power line",
+    "address": ["43.136.177.37:6567"]
+  },
+  {
+    "name": "LMSS",
+    "address": ["lucasmindustry.ddns.net:33399"]
   }
 ]
