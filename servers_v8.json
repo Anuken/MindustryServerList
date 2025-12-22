@@ -229,5 +229,9 @@
   {
     "name": "LMSS",
     "address": ["lucasmindustry.ddns.net:33399"]
+  },
+  {
+    "name": "NewBalanceTestStuff",
+    "address": ["mindurka.online:3020", "meowisland.ru:7000"]
   }
 ]
