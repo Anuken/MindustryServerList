@@ -161,7 +161,7 @@
   },
   {
     "name": "Pure PVP",
-    "address": ["mindustry.purepvp.org"]
+    "address": ["mindustry.purepvp.org", "open.purepvp.org:40001", "proxy.purepvp.org:40001"]
   },
   {
     "name": "Novice",
