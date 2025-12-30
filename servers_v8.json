@@ -230,6 +230,7 @@
     "name": "MDN",
     "address": ["mindustry.ddns.net:2001"]
   },
+  {
     "name": "StarLegends",
     "address": ["h1.getmc.cn:33455", "h1.getmc.cn:34563"]
   }
