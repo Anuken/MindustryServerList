@@ -1,5 +1,9 @@
 [
   {
+    "name": "Charophyceae",
+    "address": ["46.4.114.111"]
+  },
+  {
     "name": "M-ind Fans",
     "address": ["47.236.249.154:16567"]
   },
@@ -49,7 +53,7 @@
   },
   {
     "name": "Erepulo",
-    "address": ["erepulo.ru:5411"]
+    "address": ["erepulo.ru:5411", "erepulo.ru:5412", "erepulo.ru:5413"]
   },
   {
     "name": "404ru",
@@ -145,11 +149,7 @@
   },
   {
     "name": "Spark",
-    "address": ["mindustry.net.cn:20008", "mindustry.net.cn:20007"]
-  },
-  {
-    "name": "Mutsumi daisuki",
-    "address": ["45.125.44.66:15143", "45.125.44.66:15142", "114.66.49.107"]
+    "address": ["mindustry.net.cn:20008", "new.mindustry.net.cn:20008"]
   },
   {
     "name": "Lett's Server Network",
@@ -229,5 +229,8 @@
   {
     "name": "MDN",
     "address": ["mindustry.ddns.net:2001"]
+  },
+    "name": "StarLegends",
+    "address": ["h1.getmc.cn:33455", "h1.getmc.cn:34563"]
   }
 ]
