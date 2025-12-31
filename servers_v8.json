@@ -229,5 +229,9 @@
   {
     "name": "MDN",
     "address": ["mindustry.ddns.net:2001"]
+  },
+  {
+    "name": "Cyandustry",
+    "address": ["185.56.162.20:4000"]
   }
 ]
