@@ -53,7 +53,7 @@
   },
   {
     "name": "Erepulo",
-    "address": ["erepulo.ru:5411"]
+    "address": ["erepulo.ru:5411", "erepulo.ru:5412", "erepulo.ru:5413"]
   },
   {
     "name": "404ru",
@@ -61,7 +61,7 @@
   },
   {
     "name": "ArmyOFUkraine",
-    "address": ["202.181.188.253:27510"]
+    "address": ["202.181.188.253:27510", "202.181.188.253:27511"]
   },
   {
     "name": "Snow",
@@ -152,10 +152,6 @@
     "address": ["mindustry.net.cn:20008", "new.mindustry.net.cn:20008"]
   },
   {
-    "name": "Mutsumi daisuki",
-    "address": ["45.125.44.66:15143", "45.125.44.66:15142", "114.66.49.107"]
-  },
-  {
     "name": "Lett's Server Network",
     "address": ["sandbox.lettsn.org"]
   },
@@ -216,7 +212,7 @@
   },
   {
     "name": "abcxyz",
-    "address": ["15.235.181.136:20258", "15.235.181.136:12171", "15.235.181.136:20261", "15.235.181.136:12645", "15.235.181.136:14218", "15.235.181.136:15615"]
+    "address": ["194.247.42.130:26768", "148.113.4.178:10580", "148.113.4.178:10519", "148.113.4.178:10426", "148.113.4.178:10444", "148.113.4.178:10510"]
   },
   {
     "name": "Industrial",
@@ -229,6 +225,10 @@
   {
     "name": "LMSS",
     "address": ["lucasmindustry.ddns.net:33399"]
+  },
+  {
+    "name": "MDN",
+    "address": ["mindustry.ddns.net:2001"]
   },
   {
     "name": "Cyandustry",
