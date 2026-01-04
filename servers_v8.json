@@ -1,5 +1,9 @@
 [
   {
+    "name": "Lookie Mindustry",
+    "address": ["mindustry.lookie.me.uk:6567", "mindustry.lookie.me.uk:6568"]
+  }
+  {
     "name": "Charophyceae",
     "address": ["46.4.114.111"]
   },
