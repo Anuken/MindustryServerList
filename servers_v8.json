@@ -227,6 +227,10 @@
     "address": ["135.148.164.122:10754", "51.81.57.217:33399"]
   },
   {
+    "name":"NewerTPCS",
+    "address": ["thepullercell.pp.ua:7100"]
+  },
+  {
     "name": "MDN",
     "address": ["mindustry.ddns.net:2001"]
   },
