@@ -37,7 +37,11 @@
   },
   {
     "name": "P.I.V.O",
-    "address": ["144.31.76.229:1000", "mindservai.servehalflife.com:1001", "mindservai.servehalflife.com:1002"]
+    "address": ["mindservai.servehalflife.com:1000", "mindservai.servehalflife.com:1001"]
+  },
+  {
+    "name": "Re:snow",
+    "address": ["144.31.76.229:1000"]
   },
   {
     "name": "Tendhost",
