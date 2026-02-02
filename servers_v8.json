@@ -244,6 +244,6 @@
   },
   {
     "name": "STNG",
-    "addresss": ["mindustry.asia:6567"]
+    "address": ["mindustry.asia:6567"]
   }
 ]
