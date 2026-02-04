@@ -237,5 +237,9 @@
   {
     "name": "Cyandustry",
     "address": ["185.56.162.20:4000"]
+  },
+  {
+    "name": "RawHex",
+    "address": ["104.128.134.201"]
   }
 ]
