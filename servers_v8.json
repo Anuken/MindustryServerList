@@ -1,5 +1,9 @@
 [
   {
+    "name": "汐洛界域",
+    "address": ["mdt-game.silo-clouds.cn:6567"]
+  },
+  {
     "name": "FreakServers",
     "address": ["148.253.213.11", "148.253.213.11:6568", "46.149.69.119:10020"]
   },
