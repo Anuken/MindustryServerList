@@ -228,7 +228,7 @@
   },
   {
     "name": "LMSS & TPCS Network",
-    "address": ["135.148.164.122:10754", "lucasms.ddns.net", "thepullercell.pp.ua:7100"]
+    "address": ["135.148.164.122:10754", "lucasms.duckdns.org", "thepullercell.pp.ua:7100"]
   },
   {
     "name": "MDN",
