@@ -227,8 +227,8 @@
     "address": ["43.136.177.37:6567"]
   },
   {
-    "name": "LMSS & TPCS Network",
-    "address": ["135.148.164.122:10754", "51.81.57.217:33399", "thepullercell.pp.ua:7100"]
+    "name": "TPCS Network",
+    "address": ["thepullercell.pp.ua:7100", "thepullercell.pp.ua:7300", "thepullercell.pp.ua:7000"]
   },
   {
     "name": "MDN",
