@@ -245,5 +245,9 @@
   {
     "name": "STNG",
     "address": ["mindustry.asia:6567"]
+  },
+  {
+    "name": "WPAS",
+    "address": ["15.235.173.7:30866"]
   }
 ]
