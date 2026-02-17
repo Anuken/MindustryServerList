@@ -1,7 +1,11 @@
 [
   {
+    "name": "汐洛界域",
+    "address": ["mdt-game.silo-clouds.cn:6567"]
+  },
+  {
     "name": "FreakServers",
-    "address": ["148.253.213.11", "148.253.213.11:6568", "46.149.69.119:10020"]
+    "address": ["148.253.213.11", "148.253.213.11:6568", "46.149.69.119:10020", "46.149.69.119:10029"]
   },
   {
     "name": "M-ind Fans",
@@ -53,7 +57,13 @@
   },
   {
     "name": "Erepulo",
-    "address": ["erepulo.ru:5411", "erepulo.ru:5412", "erepulo.ru:5413"]
+    "address": [
+      "erepulo.ru:5411",
+      "erepulo.ru:5412",
+      "erepulo.ru:5413",
+      "erepulo.ru:5414",
+      "erepulo.ru:5415"
+    ]
   },
   {
     "name": "404ru",
@@ -212,7 +222,7 @@
   },
   {
     "name": "Dim.ST",
-    "address": ["play.simpfun.cn:10395"]
+    "address": ["play.simpfun.cn:14648"]
   },
   {
     "name": "abcxyz",
@@ -223,12 +233,12 @@
     "address": ["95.215.56.61:6567", "95.215.56.61:6568"]
   },
   {
-    "name": "Power line",
-    "address": ["43.136.177.37:6567"]
+    "name": "Tolerance and freedom",
+    "address": ["43.136.177.37","149.104.5.29"]
   },
   {
-    "name": "LMSS & TPCS Network",
-    "address": ["135.148.164.122:10754", "51.81.57.217:33399", "thepullercell.pp.ua:7100"]
+    "name": "TPCS Network",
+    "address": ["thepullercell.pp.ua:7100", "thepullercell.pp.ua:7300", "thepullercell.pp.ua:7000"]
   },
   {
     "name": "MDN",
@@ -249,5 +259,9 @@
   {
     "name": "WPAS",
     "address": ["15.235.173.7:30866"]
+  },
+  {
+    "name": "Moon",
+    "address": ["15.235.160.93:26393"]
   }
 ]
