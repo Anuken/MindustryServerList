@@ -53,7 +53,13 @@
   },
   {
     "name": "Erepulo",
-    "address": ["erepulo.ru:5411", "erepulo.ru:5412", "erepulo.ru:5413"]
+    "address": [
+      "erepulo.ru:5411",
+      "erepulo.ru:5412",
+      "erepulo.ru:5413",
+      "erepulo.ru:5414",
+      "erepulo.ru:5415"
+    ]
   },
   {
     "name": "404ru",
