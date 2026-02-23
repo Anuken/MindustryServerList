@@ -263,5 +263,13 @@
   {
     "name": "Moon",
     "address": ["15.235.160.93:26393"]
+  },
+      {
+    "name": "MonthZifang",
+    "address": [
+      "monthzifang:6567",
+      "monthzifang:6568",
+      "monthzifang:6569"
+    ]
   }
 ]
