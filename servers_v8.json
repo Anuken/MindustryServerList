@@ -214,7 +214,7 @@
   },
   {
     "name": "TWS",
-    "address": ["tws.mlokis.dev"]
+    "address": ["tws.mlokis.dev", "tws.mlokis.dev:9999"]
   },
   {
     "name": "lemon", 
