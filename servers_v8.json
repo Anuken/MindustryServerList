@@ -1,5 +1,9 @@
 [
   {
+    "name": "RawHex",
+    "address": ["104.128.134.201"]
+  },
+  {
     "name": "汐洛界域",
     "address": ["mdt-game.silo-clouds.cn:6567"]
   },
