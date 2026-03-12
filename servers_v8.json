@@ -267,5 +267,9 @@
   {
     "name": "Moon",
     "address": ["15.235.160.93:26393"]
+  },
+  {
+    "name": "Korea",
+    "address": ["mindustry.kr"]
   }
 ]
