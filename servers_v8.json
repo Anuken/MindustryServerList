@@ -271,5 +271,9 @@
   {
     "name": "Korea",
     "address": ["mindustry.kr"]
+  },
+  {
+    "name": "monthzifang",
+    "address": ["monthzifang.top", "monthzifang.top:6568", "monthzifang.top:6569", "monthzifang.top:6570"]
   }
 ]
