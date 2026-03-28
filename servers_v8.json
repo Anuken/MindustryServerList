@@ -241,8 +241,8 @@
     "address": ["43.136.177.37"]
   },
   {
-    "name": "TPCS Network",
-    "address": ["thepullercell.pp.ua:7100", "thepullercell.pp.ua:7300", "thepullercell.pp.ua:7000"]
+    "name": "ThePullerCell's Server Network",
+    "address": ["thepullercell.pp.ua:7100", "thepullercell.pp.ua:7300", "thepullercell.pp.ua:7000", "thepullercell.pp.ua:7200"]
   },
   {
     "name": "MDN",
