@@ -1,15 +1,31 @@
 [
   {
-    "name": "Single Server Networks Group",
-    "address": ["104.128.134.201", "mdt-game.silo-clouds.cn:6567", "47.236.249.154:16567", "mdt.shenyugame.cn:20524", "9666.fun:18564", "tendhost.ru:7577", "95.215.56.128:6574", "46.23.90.167", "new.xem8k5.top", "sandbox.lettsn.org", "mindustry.org.cn", "147.185.221.31:21206", "play.simpfun.cn:14648", "43.136.177.37", "mindustry.ddns.net:2001", "185.56.162.20:4000", "mindustry.asia:6567", "15.235.160.93:26393", "server.mindustry.kr"]
+    "name": "RawHex",
+    "address": ["104.128.134.201"]
+  },
+  {
+    "name": "汐洛界域",
+    "address": ["mdt-game.silo-clouds.cn:6567"]
   },
   {
     "name": "EscoCorp",
     "address": ["148.253.213.11", "148.253.213.11:6568", "46.149.69.119:10020", "46.149.69.119:10029", "46.149.69.119:10030", "46.149.69.119:10031"]
   },
   {
+    "name": "M-ind Fans",
+    "address": ["47.236.249.154:16567"]
+  },
+  {
     "name": "Maxdustry",
     "address": ["78.24.219.168:1001", "78.24.219.168:1002", "78.24.219.168:1003", "78.24.219.168:1004"]
+  },
+  {
+    "name": "gods field",
+    "address": ["mdt.shenyugame.cn:20524"]
+  },
+  {
+    "name": "Abyss Icefire",
+    "address": ["9666.fun:18564"]
   },
   {
     "name": "DELTA",
@@ -32,8 +48,16 @@
     "address": ["144.31.76.229:1000", "144.31.76.229:1001"]
   },
   {
+    "name": "Tendhost",
+    "address": ["tendhost.ru:7577"]
+  },
+  {
     "name": "OmniCorp",
     "address": ["omnidustry.ru:6576", "omnidustry.ru:6577"]
+  },
+  {
+    "name": "EscoCorp Servers",
+    "address": ["95.215.56.128:6574"]
   },
   {
     "name": "Erepulo",
@@ -52,6 +76,10 @@
   {
     "name": "ArmyOFUkraine",
     "address": ["202.181.188.253:27510", "202.181.188.253:27511", "202.181.188.253:27512", "202.181.188.253:27513"]
+  },
+  {
+    "name": "Snow",
+    "address": ["46.23.90.167"]
   },
   {
     "name": "routerchain",
@@ -118,6 +146,10 @@
     "address": ["meowisland.ru:6000", "meowisland.ru:6001", "meowisland.ru:6002"]
   },
   {
+    "name": "The Devil",
+    "address": ["new.xem8k5.top"]
+  },
+  {
     "name": "Charophyceae",
     "address": ["46.4.114.111", "46.4.114.111:6569"]
   },
@@ -136,6 +168,10 @@
   {
     "name": "Spark",
     "address": ["mindustry.net.cn:20008", "new.mindustry.net.cn:20008"]
+  },
+  {
+    "name": "Lett's Server Network",
+    "address": ["sandbox.lettsn.org"]
   },
   {
     "name": "Pure PVP",
@@ -158,6 +194,10 @@
     "address": ["194.164.245.234:6567", "194.164.245.234:6568"]
   },
   {
+    "name": "grass server",
+    "address": ["mindustry.org.cn"]
+  },
+  {
     "name": "Fish",
     "address": [
       "162.248.101.95",
@@ -167,6 +207,10 @@
       "162.248.100.133",
       "162.248.101.116"
     ]
+  },
+  {
+    "name": "Omnidust Servers",
+    "address": ["147.185.221.31:21206"]
   },
   {
     "name": "Router Pi",
@@ -181,6 +225,10 @@
     "address": ["lemon.mindustry.icu", "ksang.mindustry.icu"]
   },
   {
+    "name": "Dim.ST",
+    "address": ["play.simpfun.cn:14648"]
+  },
+  {
     "name": "abcxyz",
     "address": ["194.247.42.130:26768", "148.113.4.178:10580", "148.113.4.178:10519", "148.113.4.178:10426", "148.113.4.178:10444", "148.113.4.178:10510"]
   },
@@ -189,19 +237,47 @@
     "address": ["95.215.56.61:6567", "95.215.56.61:6568"]
   },
   {
+    "name": "电线",
+    "address": ["43.136.177.37"]
+  },
+  {
     "name": "ThePullerCell's Server Network",
-    "address": ["thepullercell.pp.ua:7100", "thepullercell.pp.ua:7300", "thepullercell.pp.ua:7200", "thepullercell.pp.ua:7000"]
+    "address": ["thepullercell.pp.ua:7100", "thepullercell.pp.ua:7300", "thepullercell.pp.ua:7000", "thepullercell.pp.ua:7200"]
+  },
+  {
+    "name": "MDN",
+    "address": ["mindustry.ddns.net:2001"]
+  },
+  {
+    "name": "Cyandustry",
+    "address": ["185.56.162.20:4000"]
   },
   {
     "name": "Alex Multiverse",
     "address": ["alexmindustryv7.servegame.com:25588", "172.245.187.143:6869", "172.234.80.96:6768", "139.162.41.78:6767", "172.245.187.143:6868", "92.119.127.171:6888"]
   },
   {
+    "name": "STNG",
+    "address": ["mindustry.asia:6567"]
+  },
+  {
     "name": "WPAS",
     "address": ["15.235.173.7:30866", "15.235.173.7:17662"]
   },
   {
+    "name": "Moon",
+    "address": ["15.235.160.93:26393"]
+  },
+  {
+    "name": "Korea",
+    "address": ["server.mindustry.kr"]
+  },
+  {
     "name": "monthzifang",
     "address": ["monthzifang.top", "monthzifang.top:6568", "monthzifang.top:6569", "monthzifang.top:6570"]
+  },
+  {
+    "name": "Directory",
+    "address": ["newsletter-focuses.gl.at.ply.gg:1752"]
   }
 ]
