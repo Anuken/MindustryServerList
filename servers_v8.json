@@ -182,6 +182,10 @@
     "address": ["mindustry.purepvp.org", "open.purepvp.org:40010", "proxy.purepvp.org:40010"]
   },
   {
+    "name": "Apricot Alliance",
+    "address": ["apricotalliance.org"]
+  },
+  {
     "name": "Novice",
     "address": ["43.248.77.159:33456","play.simpfun.cn:37144"]
   },
