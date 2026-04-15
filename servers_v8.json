@@ -52,6 +52,10 @@
     "address": ["144.31.76.229:1000", "144.31.76.229:1001"]
   },
   {
+    "name": "homecloud",
+    "address": ["m163.pivads.cfd"]
+  },
+  {
     "name": "Tendhost",
     "address": ["tendhost.ru:7577"]
   },
