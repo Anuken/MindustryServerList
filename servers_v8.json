@@ -291,5 +291,9 @@
   {
     "name": "Directory",
     "address": ["newsletter-focuses.gl.at.ply.gg:1752"]
+  },
+  {
+    "name": "EV's ranked PvP server",
+    "address": ["evrankedpvp.ddns.net"]
   }
 ]
