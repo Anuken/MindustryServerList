@@ -254,7 +254,7 @@
   },
   {
     "name": "MDN",
-    "address": ["mindustry.ddns.net:2001"]
+    "address": ["mindustry.ddns.net:1000", "mindustry.ddns.net:2000", "mindustry.ddns.net:3000", "mindustry.ddns.net:4000", "mindustry.ddns.net:5000"]
   },
   {
     "name": "Cyandustry",
