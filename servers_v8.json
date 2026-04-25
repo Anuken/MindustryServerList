@@ -174,7 +174,7 @@
   },
   {
     "name": "Charophyceae",
-    "address": ["46.4.114.111", "n1.eclipsesystems.org:25029"]
+    "address": ["46.4.114.111", "ns.charo.qzz.io:25029"]
   },
   {
     "name": "MAL",
