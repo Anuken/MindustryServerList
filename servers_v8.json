@@ -310,5 +310,9 @@
   {
     "name": "EV's ranked PvP server",
     "address": ["evrankedpvp.ddns.net"]
+  },
+  {
+    "name": "Conservatory",
+    "address": ["165.232.152.103:6567", "165.232.152.103:6568"]
   }
 ]
