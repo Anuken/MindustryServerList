@@ -310,5 +310,9 @@
   {
     "name": "EV's ranked PvP server",
     "address": ["evrankedpvp.ddns.net"]
+  },
+  {
+    "name": "Blyss Mindustry",
+    "address": ["31.58.77.143"]
   }
 ]
