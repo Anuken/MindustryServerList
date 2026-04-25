@@ -314,5 +314,9 @@
   {
     "name": "Conservatory",
     "address": ["165.232.152.103:6567", "165.232.152.103:6568"]
+  },
+  {
+    "name": "Blyss Mindustry",
+    "address": ["31.58.77.143"]
   }
 ]
