@@ -359,5 +359,12 @@
   {
     "name": "Foundation PvP",
     "address": ["188.126.61.232:6567"]
+　},
+  {
+    "name": "Mindustry TOKYO",
+    "address": [
+      "mindustry-tokyo.xvps.jp:6567",
+      "mindustry-tokyo.xvps.jp:6568"
+    ]
   }
 ]
