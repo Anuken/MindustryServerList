@@ -368,5 +368,9 @@
       "mindustry-tokyo.xvps.jp:6567",
       "mindustry-tokyo.xvps.jp:6568"
     ]
+  },
+  {
+    "name": "Lost island",
+    "address": ["121.199.60.4:6567"]
   }
 ]
