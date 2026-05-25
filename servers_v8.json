@@ -177,6 +177,13 @@
     ]
   },
   {
+    "name": "Featured Servers",
+    "prioritized": true,
+    "address": [
+      "n4.xpdustry.com:50022"
+    ]
+  },
+  {
     "name": "MeowIsland",
     "address": ["meowisland.ru:6000", "meowisland.ru:6001", "meowisland.ru:6002", "meowisland.ru:6003"]
   },
