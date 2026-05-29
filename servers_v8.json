@@ -5,7 +5,7 @@
   },
   {
     "name": "DontVin",
-    "address": ["67.172.89.177:6567"]
+    "address": ["167.172.89.177:6567"]
   },
   {
     "name": "Everyone Create",
@@ -223,10 +223,6 @@
   {
     "name": "Novice",
     "address": ["play.simpfun.cn:37144","8.145.45.252:6567","play.simpfun.cn:13558"]
-  },
-  {
-    "name": "DontVin",
-    "address": ["102.211.206.92:1111", "102.211.206.92:2222", "102.211.206.92:3333", "102.211.206.92:4444"]
   },
   {
     "name": "Aetherial",
