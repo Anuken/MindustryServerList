@@ -384,5 +384,9 @@
   {
     "name": "MDT DO",
     "address": ["43.248.117.226:40149"]
+  },
+  {
+    "name": "Sectorized",
+    "address": ["sectorized.freeddns.org"]
   }
 ]
