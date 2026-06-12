@@ -388,5 +388,9 @@
   {
     "name": "Sectorized",
     "address": ["sectorized.freeddns.org"]
+  },
+  {
+    "name": "Extinction",
+    "address": ["45.43.163.226:5520"]
   }
 ]
