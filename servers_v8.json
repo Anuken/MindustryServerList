@@ -392,5 +392,9 @@
   {
     "name": "Extinction",
     "address": ["45.43.163.226:5520"]
+  },
+  {
+    "name": "TANK",
+    "address": ["tank.hyw9178.site:30035"]
   }
 ]
