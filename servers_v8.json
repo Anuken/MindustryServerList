@@ -1,5 +1,9 @@
 [
   {
+    "name": "Scematory",
+    "address": ["155.212.172.123:6567"]
+  },
+  {
     "name": "Mindustry Trio",
     "address": ["209.25.141.19:1185","209.25.141.19:1184"]
   },
@@ -396,5 +400,9 @@
   {
     "name": "TANK",
     "address": ["tank.hyw9178.site:30035"]
+  },
+  {
+    "name": "doLdoQ",
+    "address": ["play.simpfun.cn:14887"]
   }
 ]
