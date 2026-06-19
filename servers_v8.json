@@ -404,5 +404,9 @@
   {
     "name": "doLdoQ",
     "address": ["play.simpfun.cn:14887"]
+  }.
+  {
+    "name": "Magyar Mindustry",
+    "address": ["tisza.gergo.top:6567", "duna.gergo.top:6568", "drava.gergo.top:6590", "raba.gergo.top:6591"]
   }
 ]
