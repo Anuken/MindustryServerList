@@ -404,5 +404,9 @@
   {
     "name": "doLdoQ",
     "address": ["play.simpfun.cn:14887"]
+  },
+  {
+    "name": "touhou",
+    "address": ["140.210.15.169:6567"]
   }
 ]
