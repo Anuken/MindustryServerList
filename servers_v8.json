@@ -417,4 +417,7 @@
     "name": "touhou",
     "address": ["140.210.15.169:6567"]
   }
-]
+  {
+    "name": "BlockWalkerlChina湖北",
+    "address": ["202.189.10.3:30061"]
+  }
