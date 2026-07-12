@@ -416,5 +416,9 @@
   {
     "name": "touhou",
     "address": ["140.210.15.169:6567"]
+  },
+  {
+    "name": "MindCup RUS / PVP",
+    "address": ["MindCup.ru"]
   }
 ]
