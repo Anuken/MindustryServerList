@@ -416,5 +416,8 @@
   {
     "name": "touhou",
     "address": ["140.210.15.169:6567"]
-  }
+  },
+  {
+    "name": "ZGXH2026",
+    "address": ["mdt.zgxhhh.top:24160"]}
 ]
