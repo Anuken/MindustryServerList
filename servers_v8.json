@@ -202,7 +202,7 @@
   },
   {
     "name": "Charophyceae",
-    "address": ["46.4.114.111", "ns.charo.qzz.io:25007"]
+    "address": ["46.4.114.111", "134.255.232.108:25007", "ns.charo.qzz.io:25007"]
   },
   {
     "name": "MAL",
