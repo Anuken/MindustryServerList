@@ -28,10 +28,6 @@
     "address": ["104.128.134.201"]
   },
   {
-    "name": "汐洛界域",
-    "address": ["mdt-game.silo-clouds.cn:6567"]
-  },
-  {
     "name": "Esco",
     "address": ["2.26.63.50", "2.26.63.50:6568", "46.149.69.119:16244", "46.149.69.119:10029", "46.149.69.119:10030", "46.149.69.119:10031", "46.149.69.119:10037", "play.larzed.icu:6569", "play.larzed.icu:6570"]
   },
@@ -42,14 +38,6 @@
   {
     "name": "Maxdustry",
     "address": ["78.24.219.168:1001", "78.24.219.168:1002", "78.24.219.168:1003", "78.24.219.168:1004"]
-  },
-  {
-    "name": "gods field",
-    "address": ["mdt.shenyugame.cn:20524"]
-  },
-  {
-    "name": "Abyss Icefire",
-    "address": ["9666.fun:18564"]
   },
   {
     "name": "DELTA",
@@ -66,10 +54,6 @@
   {
     "name": "IndustryCats",
     "address": ["80.74.28.57:55072", "80.74.28.57:7623"]
-  },
-  {
-    "name": "LazyCats",
-    "address": ["pivo.pivomind.pro:1000", "pivo.pivomind.pro:1001", "pivo.pivomind.pro:1002", "pivo.pivomind.pro:1003"]
   },
   {
     "name": "homecloud",
@@ -125,10 +109,6 @@
     "address": ["v8.baseduser.eu.org:6567", "v8.baseduser.eu.org:6568"]
   },
   {
-    "name": "TinyLake",
-    "address": ["cn.mindustry.top", "cn.mindustry.top:40542"]
-  },
-  {
     "name": "Mindurka",
     "address": [
       "147.45.230.117:3050",
@@ -140,10 +120,6 @@
       "147.45.230.117:3056",
       "185.40.4.248:5000"
     ]
-  },
-  {
-    "name": "Gadgetroch",
-    "address": ["mindustry.gadgetroch.com:6567", "mindustry.gadgetroch.com:6568", "mindustry.gadgetroch.com:6569"]
   },
   {
     "name": "XCore",
@@ -209,16 +185,12 @@
     "address": ["46.4.114.111", "134.255.232.108:25007", "ns.charo.qzz.io:25007"]
   },
   {
-    "name": "MAL",
-    "address": ["78.47.238.87", "78.47.238.87:6568", "78.47.238.87:6569"]
-  },
-  {
     "name": "io",
     "address": ["148.251.184.58", "148.251.184.58:1000", "148.251.184.58:2000", "148.251.184.58:3000", "148.251.184.58:4000"]
   },
   {
     "name": "SynapseOS",
-    "address": ["46.149.69.116:5555", "185.137.233.193:25583", "185.137.233.193:25985"]
+    "address": ["46.149.69.116:5555"]
   },
   {
     "name": "Spark",
@@ -239,10 +211,6 @@
   {
     "name": "Novice",
     "address": ["play.simpfun.cn:37144","8.145.45.252:6567","play.simpfun.cn:13558"]
-  },
-  {
-    "name": "Aetherial",
-    "address": ["aetherial.my-craft.cc:25582", "aetherial.my-craft.cc:25630", "aetherial.my-craft.cc:25646"]
   },
   {
     "name": "Rosemoncorp Servers",
@@ -276,20 +244,12 @@
     "address": ["tws.mlokis.dev", "tws.mlokis.dev:9999"]
   },
   {
-    "name": "Classic Lemon", 
-    "address": ["lemon.mindustry.icu", "ksang.mindustry.icu", "cn.mindustry.asia"]
-  },
-  {
     "name": "The Domain of Light",
     "address": ["play.simpfun.cn:26054"]
   },
   {
     "name": "abcxyz vietnam offical",
     "address": ["142.132.203.47:18647", "51.68.107.75:12328", "15.235.173.7:29663"]
-  },
-  {
-    "name": "Industrial",
-    "address": ["95.215.56.61:6567", "95.215.56.61:6568"]
   },
   {
     "name": "Power line",
