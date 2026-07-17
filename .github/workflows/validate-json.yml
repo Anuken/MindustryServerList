@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  validate:
+  validate-json:
     runs-on: ubuntu-latest
 
     steps:
