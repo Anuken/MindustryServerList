@@ -16,7 +16,7 @@ permissions:
   issues: write
 
 jobs:
-  validate:
+  ping-servers:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout PR head
