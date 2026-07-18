@@ -384,5 +384,9 @@
   {
     "name": "MindCup RUS / PVP",
     "address": ["MindCup.ru"]
+  },
+  {
+    "name": "StarLegends",
+    "address": ["h1.getmc.cn:33455", "h1.getmc.cn:34561"]
   }
 ]
