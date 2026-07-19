@@ -384,5 +384,9 @@
   {
     "name": "MindCup RUS / PVP",
     "address": ["MindCup.ru"]
+  },
+    {
+    "name": "OC server",
+    "address": ["node1.swdhst.com:2027","node1.swdhst.com:2047","node1.swdhst.com:2077","node1.swdhst.com:2054"]
   }
 ]
