@@ -386,6 +386,10 @@
     "address": ["MindCup.ru"]
   },
   {
+    "name": "Mindustry Türkiye",
+    "address": ["31.223.16.93:6567","31.223.16.93:6568"]
+  },
+  {
     "name": "StarLegends",
     "address": ["h1.getmc.cn:33455", "h1.getmc.cn:34561"]
   }
