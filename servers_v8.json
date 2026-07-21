@@ -348,7 +348,7 @@
   },
   {
     "name": "Lost island",
-    "address": ["zxs.squi2rel.top:6567"]
+    "address": ["mindustry.men:6567"]
   },
   {
     "name": "MDT DO",
@@ -385,8 +385,12 @@
     "name": "MindCup RUS / PVP",
     "address": ["MindCup.ru"]
   },
-    {
+  {
     "name": "OC server",
     "address": ["node1.swdhst.com:2027","node1.swdhst.com:2047","node1.swdhst.com:2077","node1.swdhst.com:2054"]
+  },
+  {
+    "name": "Mindustry Türkiye",
+    "address": ["31.223.16.93:6567","31.223.16.93:6568","31.223.16.93:6569"]
   }
 ]
