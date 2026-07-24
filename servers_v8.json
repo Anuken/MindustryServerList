@@ -1,5 +1,9 @@
 [
   {
+    "name": "Hello",
+    "address": ["37.lemehost.com:29546"]
+  },
+  {
     "name": "Scematory",
     "address": ["155.212.172.123:6567"]
   },
