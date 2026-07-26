@@ -396,5 +396,9 @@
   {
     "name": "StarLegends",
     "address": ["h1.getmc.cn:33455", "h1.getmc.cn:34561"]
+  },
+  {
+    "name": "Lunar Network",
+    "address": ["93.115.10.226:7005", "93.115.10.226:7045"]
   }
 ]
