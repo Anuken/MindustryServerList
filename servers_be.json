@@ -10,5 +10,9 @@
   {
     "name": "Chaotic Neutral",
     "address": ["n4.xpdustry.com:50017"]
+  },
+  {
+   "name": "CN-testSite"
+   "address": ["8.137.178.39"]
   }
 ]
