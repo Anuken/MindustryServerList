@@ -344,7 +344,10 @@
   },
   {
     "name": "Lost island",
-    "address": ["play.mindustry.men:6567"]
+    "address": [
+      "play.mindustry.men:6567",
+      "new.mindustry.men:6567"
+    ]
   },
   {
     "name": "MDT DO",
