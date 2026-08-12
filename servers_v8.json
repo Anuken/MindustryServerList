@@ -407,5 +407,9 @@
   {
     "name": "bilsob community",
     "address": ["13.140.135.233:6567"]
+  },
+  {
+    "name": "VANILIN",
+    "address": ["194.67.92.49:6567"]
   }
 ]
