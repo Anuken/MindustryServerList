@@ -253,7 +253,7 @@
   },
   {
     "name": "Power line",
-    "address": ["43.136.177.37","43.136.177.37:6568"]
+    "address": ["211.154.18.252:10093"]
   },
   {
     "name": "ThePullerCell's Server Network",
