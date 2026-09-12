@@ -1,12 +1,11 @@
 
-name: Validate newlines
+name: Repair newlines
 
 on:
   push:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
-
   workflow_dispatch:
 
 jobs:
@@ -15,7 +14,14 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - name: Validate newlines in JSON files
+      - name: Repair newlines in JSON files
         run: |
-          ! grep -q "$(printf '\r')" servers_v8.json
-          ! grep -q "$(printf '\r')" servers_be.json
+          if grep -q "$(printf '\r')" servers_v8.json || grep -q "$(printf '\r')" servers_be.json; then
+            cat servers_v8.json | tr -d '\r' > servers_v8.json.new
+            cat servers_be.json | tr -d '\r' > servers_be.json.new
+            mv servers_v8.json{.new,}
+            mv servers_be.json{.new,}
+            git add servers_{v8,be}.json
+            git commit -m 'auto: fixed newlines'
+            git push origin
+          fi
