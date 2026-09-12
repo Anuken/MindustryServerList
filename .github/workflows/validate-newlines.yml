@@ -21,6 +21,8 @@ jobs:
             cat servers_be.json | tr -d '\r' > servers_be.json.new
             mv servers_v8.json{.new,}
             mv servers_be.json{.new,}
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            git config --global user.name "github-actions[bot]"
             git add servers_{v8,be}.json
             git commit -m 'auto: fixed newlines'
             git push origin
