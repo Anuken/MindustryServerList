@@ -184,7 +184,7 @@
   },
   {
     "name": "Corium",
-    "address": ["159.195.244.219", "159.195.244.219:1000", "159.195.244.219:2000"]
+    "address": ["corium.mindustry.dev", "corium.mindustry.dev:1000", "corium.mindustry.dev:2000"]
   },
   {
     "name": "io",
