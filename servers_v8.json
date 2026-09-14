@@ -428,6 +428,9 @@
   {
         "name": "nuclear power",
         "address": ["47.103.45.169"]
+  },
+  {
+    "name": "Industrial",
+    "address": ["135.125.181.243:6567"]
   }
 ]
-
