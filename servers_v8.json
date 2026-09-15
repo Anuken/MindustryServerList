@@ -188,7 +188,7 @@
   },
   {
     "name": "io",
-    "address": ["148.251.184.58", "148.251.184.58:1000", "148.251.184.58:2000", "148.251.184.58:3000", "148.251.184.58:4000"]
+    "address": ["corium.mindustry.dev", "corium.mindustry.dev:1000", "corium.mindustry.dev:2000"]
   },
   {
     "name": "SynapseOS",
