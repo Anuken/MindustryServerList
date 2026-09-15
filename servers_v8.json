@@ -436,5 +436,9 @@
   {
     "name": "Industrial",
     "address": ["135.125.181.243:6567"]
+  },
+  {
+  "name": "NOVA",
+  "address": ["mindustry.n100s.ru:6567"]
   }
 ]
