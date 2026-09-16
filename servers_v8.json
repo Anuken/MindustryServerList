@@ -440,5 +440,9 @@
   {
   "name": "NOVA",
   "address": ["mindustry.n100s.ru:6567"]
+  },
+  {
+  "name": "auroraxtail",
+  "address": ["mdt.arxt.top:31704"]
   }
 ]
