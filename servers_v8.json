@@ -443,5 +443,9 @@
       "mindustry.n100s.ru:6567", 
       "mindustry.n100s.ru:6568"
     ]
+  },
+  {
+  "name": "auroraxtail",
+  "address": ["mdt.arxt.top:31704"]
   }
 ]
