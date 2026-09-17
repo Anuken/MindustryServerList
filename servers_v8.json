@@ -187,10 +187,6 @@
     "address": ["corium.mindustry.dev", "corium.mindustry.dev:1000", "corium.mindustry.dev:2000"]
   },
   {
-    "name": "io",
-    "address": ["corium.mindustry.dev", "corium.mindustry.dev:1000", "corium.mindustry.dev:2000"]
-  },
-  {
     "name": "SynapseOS",
     "address": ["46.149.69.116:5555"]
   },
