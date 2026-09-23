@@ -439,5 +439,9 @@
   {
   "name": "auroraxtail",
   "address": ["mdt.arxt.top:31704"]
+  },
+  {
+    "name": "Rustbelt",
+    "address": ["lessthan100kmaps.shaderkit.dev:34680"]
   }
 ]
