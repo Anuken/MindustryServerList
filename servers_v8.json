@@ -439,5 +439,9 @@
   {
     "name": "Rustbelt",
     "address": ["lessthan100kmaps.shaderkit.dev:34680"]
+  },
+  {
+    "name": "Hubdustry",
+    "address": ["server.hubdustry.com:10000"]
   }
 ]
