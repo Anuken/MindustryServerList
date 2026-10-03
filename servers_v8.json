@@ -20,6 +20,10 @@
     "address": ["jhh.mdt.eocc.top:11542","hk.mdt.eocc.top:6567","jhh.mdt.eocc.top:11146","zj.mdt.eocc.top:22231"]
   },
   {
+    "name": "Powerline Monitor",
+    "address": ["39.107.34.48"]
+  },
+  {
     "name": "ZGXH",
     "address": ["play.simpfun.cn:24160"]
   },
@@ -239,7 +243,7 @@
   },
   {
     "name": "The Domain of Light",
-    "address": ["103.85.84.40:26054", "103.85.84.40:14245"]
+    "address": ["103.85.84.40:16287", "103.85.84.40:14245"]
   },
   {
     "name": "abcxyz vietnam offical",
@@ -406,20 +410,9 @@
     "address": ["u.sjcmc.cn:31500", "u.sjcmc.cn:31519", "u.sjcmc.cn:31586"]
   },
   {
-    "name": "bilsob community",
-    "address": [
-      "13.140.135.233:6567",
-      "13.140.135.233:1414",
-      "13.140.135.233:147",
-      "13.140.135.233:1417",
-      "13.140.135.233:14147"
-    ]
-  },
-  {
     "name": "VANILIN",
     "address": ["194.67.92.49:6567"]
-  }
-,
+  },
   {
         "name": "girlcat_2020",
         "address": ["45.32.115.153:6567", "45.32.115.153:6568"]
@@ -442,5 +435,9 @@
   {
   "name": "auroraxtail",
   "address": ["mdt.arxt.top:31704"]
+  },
+  {
+    "name": "Rustbelt",
+    "address": ["lessthan100kmaps.shaderkit.dev:34680"]
   }
 ]
