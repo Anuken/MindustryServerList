@@ -441,5 +441,13 @@
   {
     "name": "Hubdustry",
     "address": ["server.hubdustry.com:10000"]
+  },
+  {
+    "name": "EOCC",
+    "address": [
+                "zj-mdt.66131466.xyz:33333",
+                "zj-mdt.66131466.xyz:44444",
+                "zj-mdt.66131466.xyz:16568"
+               ]
   }
 ]
