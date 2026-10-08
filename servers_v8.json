@@ -76,6 +76,12 @@
     "address": ["tendhost.ru:7577"]
   },
   {
+    "name": "DurkaLAND",
+    "address": [
+        "31.76.110.203:6567"
+    ]
+  },
+  {
     "name": "OmniCorp",
     "address": [
         "omnidustry.ru:6567",
