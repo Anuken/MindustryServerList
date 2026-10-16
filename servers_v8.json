@@ -445,6 +445,7 @@
   },
   {
     "name": "Hubdustry",
+    "prioritized": true,
     "address": ["server.hubdustry.com:10000"]
   },
   {
