@@ -2,27 +2,33 @@
 
 This repository contains a [JSON file](https://github.com/Anuken/MindustryServerList/blob/main/servers_v8.json) that lists all the public servers for Mindustry. This list is managed via user-submitted pull requests.
 
-### Server list requirements
-You have to meet these requirements to be accepted onto and to remain on the server list. Failure to do so will result in your server being denied to be added onto the list or removed from the list.
-1. Your server must be moderated. You have to take administrative measures against griefers or other malicious players. You should not provide an unpleasant experience for your players. If you can't find enough staff, consider getting server plugins with anti-grief features.
-2. You must take active action to prevent NSFW content from being on your server in any form. Get staff to watch for it, especially when hosting sandbox; if you can't, consider banning displays: `rules add bannedBlocks ["canvas", "logic-display", "large-logic-display"]`.
-3. You must not discriminate against players based on race, gender, or any similar attributes. You are also expected to take action against players who engage in discrimination.
-4. Your server and its staff must not partake in or condone disruptive/misleading actions against players or other servers. You must not attempt to mislead players (e.g., spoofing ping or player counts), leak UUIDs or other info, participate in DDOS attacks, raid Discord servers, or take other similar actions. You are expected to remove staff violating this rule.
-5. You must not violate intellectual property rights. You must also respect requests from users to remove their content from your server (e.g., if someone asks you not to use their maps from the `#maps` channel on Discord, you have to remove those maps *and their derivatives* as per copyright standard practice).
-6. You should try to be original with your server by adding new gamemodes, server mods, being a language-specific server, or in some other way. However, we may still accept you if you do not meet these criteria, depending mostly on how many similar servers there are. Up to reviewer judgement.
-7. Language-specific servers must be clearly marked, in English, in your server names, or category title.
-8. Vanilla clients must be able to play on your server. The server itself can be modded (plugins, source mods, etc.), but you must not require clients to install anything.
-9. When adding a new category, reviewers must be able to join your server (your server has to be online) for it to be accepted. Non-24/7 servers may, however, still be accepted if this is clarified to reviewers and it's sufficiently unique.
+### Requirements
+Your server must meet all of these requirements to be added to the list and to stay on it. Servers that fail to meet them may be denied or removed.
+1. **Active moderation.** Take action against griefers and other malicious players. Players should not have an unpleasant experience. If you can't find enough staff, consider plugins with anti-grief features.
+2. **No NSFW content.** Actively prevent NSFW content in any form, especially on sandbox servers. If you lack the staff to watch for it, consider banning displays:
+   `rules add bannedBlocks ["canvas", "logic-display", "large-logic-display"]`
+3. **No discrimination.** Do not discriminate against players based on race, gender, or similar attributes, and take action against players who do.
+4. **No disruptive or misleading behavior.** Neither your server nor its staff may take part in or condone actions that disrupt or mislead players or other servers. This includes:
+   - spoofing ping or player counts
+   - leaking UUIDs or other player information
+   - taking part in DDoS attacks
+   - raiding Discord servers
+
+   Remove any staff member who violates this rule.
+5. **Respect intellectual property.** Do not violate intellectual property rights. If a user asks you to remove their content (for example, maps from the `#maps` channel on Discord), remove it *and its derivatives*, in line with standard copyright practice.
+6. **Vanilla clients must be able to join.** The server itself may be modded (plugins, source mods, etc.), but players must not be required to install anything.
+7. **Language-specific servers are clearly marked.** State the language, in English, in the server name or category title.
+8. **Originality.** Try to stand out, for example through new gamemodes, server mods, or by being a language-specific server. Servers that don't meet this may still be accepted, depending mostly on how many similar servers are already listed.
+9. **Servers must be online.** Reviewers must be able to join your server (your server has to be online) for it to be accepted. Non-24/7 servers may, however, still be accepted if this is clarified with reviewers and it's sufficiently unique.
 
 ### Server configuration
-- **Consider enabling a rate limit:** `config messageRateLimit 2` will make it so that players can only send messages every 2 seconds, for example.
 - **Set an appropriate MOTD, name, and description.** This is set with `config <name/desc/motd> <value>`. "Appropriate" means that:
-   - Your name or description must reflect the type of server you're hosting. 
+   - **Your name or description must reflect the type of server you're hosting.** 
    Since new players may be exposed to the server list early on, put in a phrase like "Co-op survival" or "PvP" so players know what they're getting into. Yes, this is also displayed in the server mode info text, but having extra info in the name doesn't hurt.
-   - Make sure players know where to refer to for server support. It should be fairly clear that the server owner is not me, but you.
-   - Try to be professional in your text; use common sense.
+   - **Make sure players know where to refer to for server support.** It should be fairly clear that the server owner is not me, but you.
+   - **Stay professional.** Use common sense.
 
-### Adding a server to the list
+### Submitting your server
 - Finally, once you've checked for everything, **submit a pull request** to add your server's IP to the list. 
 Press the edit button on the [server file](https://github.com/Anuken/MindustryServerList/blob/main/servers_v8.json), then add a JSON object with the following format:
     ```json
