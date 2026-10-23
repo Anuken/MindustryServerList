@@ -6,7 +6,7 @@ This repository contains a [JSON file](https://github.com/Anuken/MindustryServer
 Your server must meet all of these requirements to be added to the list and to stay on it. Servers that fail to meet them may be denied or removed.
 1. **Active moderation.** Take action against griefers and other malicious players. Players should not have an unpleasant experience. If you can't find enough staff, consider plugins with anti-grief features.
 2. **No NSFW content.** Actively prevent NSFW content in any form, especially on sandbox servers. If you lack the staff to watch for it, consider banning displays:
-   `rules add bannedBlocks ["canvas", "logic-display", "large-logic-display"]`
+   `rules add bannedBlocks ["canvas", "large-canves", "logic-display", "large-logic-display", "tile-logic-display"]`
 3. **No discrimination.** Do not discriminate against players based on race, gender, or similar attributes, and take action against players who do.
 4. **No disruptive or misleading behavior.** Neither your server nor its staff may take part in or condone actions that disrupt or mislead players or other servers. This includes:
    - spoofing ping or player counts
