@@ -17,7 +17,13 @@
   },
   {
     "name": "Every One Create Community",
-    "address": ["jhh.mdt.eocc.top:11542","hk.mdt.eocc.top:6567","jhh.mdt.eocc.top:11146","zj.mdt.eocc.top:22231"]
+    "address": ["jhh.mdt.eocc.top:11542",
+                "hk.mdt.eocc.top:6567",
+                "jhh.mdt.eocc.top:11146",
+                "zj.mdt.eocc.top:22231",
+                "zj.mdt.eocc.top:33333",
+                "zj.mdt.eocc.top:44444",
+                "zj.mdt.eocc.top:16568"]
   },
   {
     "name": "Powerline Monitor",
