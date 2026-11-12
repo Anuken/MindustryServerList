@@ -480,5 +480,9 @@
   {
     "name": "Dsv4f-DAFIYU",
     "address": ["play.simpfun.cn:35372"]
+  },
+  {
+    "name": "DSH CN | 中文服",
+    "address": ["118.89.190.36:6567"]
   }
 ]
