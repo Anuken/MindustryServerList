@@ -36,6 +36,10 @@
     "address": ["178.253.45.82:6567", "178.253.45.82:6568"]
   },
   {
+    "name": "LakeIsland",
+    "address": ["13.143.134.145:6567"]
+  },
+  {
     "name": "Esco",
     "address": ["mindustry.larzed.icu:6567", "mindustry.larzed.icu:6568", "mindustry.larzed.icu:6570", "mindustry.larzed.icu:6571", "mindustry.larzed.icu:6572", "mindustry.larzed.icu:6573", "mindustry.larzed.icu:6574"]
   },
