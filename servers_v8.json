@@ -500,5 +500,9 @@
   {
     "name": "Mindustry Ranked",
     "address": ["ranked.ddns.net:16567", "213.183.56.49:16567"]
+  },
+  {
+    "name": "Gadgetroch's Server",
+    "address": ["mindustry.gadgetroch.com:6567", "mindustry.gadgetroch.com:6568", "mindustry.gadgetroch.com:6569"]
   }
 ]
