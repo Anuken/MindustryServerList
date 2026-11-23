@@ -503,6 +503,10 @@
   },
   {
     "name": "Gadgetroch's Server",
-    "address": ["mindustry.gadgetroch.com:6567", "mindustry.gadgetroch.com:6568", "mindustry.gadgetroch.com:6569", "mindustry.gadgetroch.com:6570"]
+    "address": ["mindustry.gadgetroch.com:6567", "mindustry.gadgetroch.com:6568", "mindustry.gadgetroch.com:6569"]
+  },
+  {
+    "name": "Mlogent (Chinese Co-op)",
+    "address": ["mlogent.top:6567"]
   }
 ]
