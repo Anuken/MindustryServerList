@@ -82,16 +82,16 @@
   {
     "name": "OmniCorp",
     "address": [
-        "omnidustry.ru:6567",
-        "omnidustry.ru:6568",
-        "omnidustry.ru:6569",
-        "omnidustry.ru:6571",
-        "omnidustry.ru:6572",
-        "omnidustry.ru:6573",
-        "omnidustry.ru:6574",
-        "omnidustry.ru:6575",
-        "omnidustry.ru:6576",
-        "omnidustry.ru:6577"
+      "omnidustry.ru:6567",
+      "omnidustry.ru:6568",
+      "omnidustry.ru:6569",
+      "omnidustry.ru:6571",
+      "omnidustry.ru:6572",
+      "omnidustry.ru:6573",
+      "omnidustry.ru:6574",
+      "omnidustry.ru:6575",
+      "omnidustry.ru:6576",
+      "omnidustry.ru:6577"
     ]
   },
   {
@@ -457,9 +457,9 @@
   {
     "name": "EOCC",
     "address": [
-     "zj-mdt.66131466.xyz:33333",
-     "zj-mdt.66131466.xyz:44444",
-     "zj-mdt.66131466.xyz:16568"
+      "zj-mdt.66131466.xyz:33333",
+      "zj-mdt.66131466.xyz:44444",
+      "zj-mdt.66131466.xyz:16568"
     ]
   },
   {
