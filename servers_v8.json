@@ -1,23 +1,23 @@
 [
   {
     "name": "gods field",
-    "address": ["110.42.62.234:20524","110.42.62.234:20525"]
+    "address": ["110.42.62.234:20524", "110.42.62.234:20525"]
   },
   {
     "name": "Schematory",
-    "address": ["155.212.172.123:6567","157.22.190.107:6567"]
+    "address": ["155.212.172.123:6567", "157.22.190.107:6567"]
   },
   {
     "name": "Mindustry Trio",
-    "address": ["209.25.141.19:1185","209.25.141.19:1184","209.25.141.24:1037"]
+    "address": ["209.25.141.19:1185", "209.25.141.19:1184", "209.25.141.24:1037"]
   },
   {
     "name": "DontVin",
-    "address": ["167.172.89.177:6567","103.93.133.198:6567","103.93.133.198:6568","103.93.133.198:6569","103.93.133.198:6570"]
+    "address": ["167.172.89.177:6567", "103.93.133.198:6567", "103.93.133.198:6568", "103.93.133.198:6569", "103.93.133.198:6570"]
   },
   {
     "name": "Every One Create Community",
-    "address": ["jhh.mdt.eocc.top:11542","hk.mdt.eocc.top:6567","jhh.mdt.eocc.top:11146","zj.mdt.eocc.top:22231"]
+    "address": ["jhh.mdt.eocc.top:11542", "hk.mdt.eocc.top:6567", "jhh.mdt.eocc.top:11146", "zj.mdt.eocc.top:22231"]
   },
   {
     "name": "Powerline Monitor",
@@ -82,16 +82,16 @@
   {
     "name": "OmniCorp",
     "address": [
-        "omnidustry.ru:6567",
-        "omnidustry.ru:6568",
-        "omnidustry.ru:6569",
-        "omnidustry.ru:6571",
-        "omnidustry.ru:6572",
-        "omnidustry.ru:6573",
-        "omnidustry.ru:6574",
-        "omnidustry.ru:6575",
-        "omnidustry.ru:6576",
-        "omnidustry.ru:6577"
+      "omnidustry.ru:6567",
+      "omnidustry.ru:6568",
+      "omnidustry.ru:6569",
+      "omnidustry.ru:6571",
+      "omnidustry.ru:6572",
+      "omnidustry.ru:6573",
+      "omnidustry.ru:6574",
+      "omnidustry.ru:6575",
+      "omnidustry.ru:6576",
+      "omnidustry.ru:6577"
     ]
   },
   {
@@ -207,7 +207,7 @@
   },
   {
     "name": "Spark",
-    "address": ["mindustry.net.cn","new.mindustry.net.cn:16666","sub.mindustry.net.cn:16567"]
+    "address": ["mindustry.net.cn", "new.mindustry.net.cn:16666", "sub.mindustry.net.cn:16567"]
   },
   {
     "name": "Lett's Server Network",
@@ -219,7 +219,7 @@
   },
   {
     "name": "Novice",
-    "address": ["play.simpfun.cn:37144","8.145.45.252:6567","play.simpfun.cn:13558"]
+    "address": ["play.simpfun.cn:37144", "8.145.45.252:6567", "play.simpfun.cn:13558"]
   },
   {
     "name": "Rosemoncorp Servers",
@@ -424,12 +424,12 @@
     "address": ["194.67.92.49:6567"]
   },
   {
-        "name": "girlcat_2020",
-        "address": ["15.235.245.49:6567", "15.235.245.49:6568"]
+    "name": "girlcat_2020",
+    "address": ["15.235.245.49:6567", "15.235.245.49:6568"]
   },
   {
-        "name": "nuclear power",
-        "address": ["47.103.45.169"]
+    "name": "nuclear power",
+    "address": ["47.103.45.169"]
   },
   {
     "name": "Industrial",
@@ -443,8 +443,8 @@
     ]
   },
   {
-  "name": "auroraxtail",
-  "address": ["mdt.arxt.top:31704"]
+    "name": "auroraxtail",
+    "address": ["mdt.arxt.top:31704"]
   },
   {
     "name": "Rustbelt",
@@ -457,10 +457,10 @@
   {
     "name": "EOCC",
     "address": [
-                "zj-mdt.66131466.xyz:33333",
-                "zj-mdt.66131466.xyz:44444",
-                "zj-mdt.66131466.xyz:16568"
-               ]
+      "zj-mdt.66131466.xyz:33333",
+      "zj-mdt.66131466.xyz:44444",
+      "zj-mdt.66131466.xyz:16568"
+    ]
   },
   {
     "name": "Kei's Playground",
